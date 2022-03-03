@@ -1,37 +1,43 @@
-## Hello World!
+# Yuri Komysa
+## Junior Data Scientist
 
-You can use the [editor on GitHub](https://github.com/yurikomysa/yurikomysa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+PHONE
++380504711399
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EMAIL
+yurikomysa@gmail.com
 
-### Markdown
+## EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2002 - 2015:
+### DONETSK INSTITUTE FOR PHYSICS AND ENGINEERING OF NAS OF UKRAINE
+Donetsk, Kyiv // Junior ScientiBc Assistant
+- Working in the Feld of Condensed Matter Physics
+- Simple data analyxing and writing scientiBc articles
+- Computer modeling of physical processes in ceramics
 
-```markdown
-Syntax highlighted code block
+2017 - 2022:
+### U-ROBOT
+Slov`yansk // Supervisor
+- Educational process building
+- Conducting classes in robotics and programming based on Lego Mindstorms EV3 and Arduino
+- Python programming classes
+- Machine learning classes
 
-# Header 1
-## Header 2
-### Header 3
+## SKILLS
+- Machine learning methods in data analysis
+- Python for Data Sciense
+- Jupyther NoteBook
+- Pandas, NumPy, Scikit-learn, Seaborn, Keras etc.
 
-- Bulleted
-- List
+## SUMMARY
+An aspiring data analyst with a passion for providing valuable data through analytical functions
+and data extraction techniques. Seeks to help companies move forward by helping develop
+strategic plans based on predictive modeling.
 
-1. Numbered
-2. List
+## COURSES
+- Python for Data Science and Machine Learning bootcamp on Udemy
+- Machine Learning with Python - IBM online course
+- Data Analysis with Python - IBM online course
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yurikomysa/yurikomysa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [My Portfolio Projects](https://github.com/yurikomysa/Porfolio).
