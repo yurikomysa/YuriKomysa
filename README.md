@@ -40,4 +40,4 @@ strategic plans based on predictive modeling.
 - Machine Learning with Python - IBM online course
 - Data Analysis with Python - IBM online course
 
-For more details see [My Portfolio Projects](https://github.com/yurikomysa/Porfolio).
+See also [My Portfolio Projects](https://github.com/yurikomysa/Porfolio).
